@@ -6,12 +6,12 @@ A full-stack real-time chat application built using the **MERN stack** and **Soc
 
 ## ✨ Features
 
-- **Modern Tech Stack:** MongoDB, Express, React, Node.js, Socket.IO  
+- **Tech Stack:** MongoDB, Express, React, Node.js, Socket.IO  
 - **Authentication & Authorization:** JWT-based secure access control  
 - **Real-Time Messaging:** Instant bi-directional communication using WebSockets  
 - **Online Presence:** Live user status powered by Socket.IO and React Context  
 - **State Management:** Lightweight global state handling with Zustand  
-- **UI & Styling:** Tailwind CSS with DaisyUI components  
+- **UI & Styling:** Tailwind CSS with DaisyUI(yikr) components  
 - **Error Handling:** Centralized and consistent error handling on both client and server  
 
 ---
@@ -25,3 +25,19 @@ PORT=your_port
 MONGO_DB_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
 NODE_ENV=production
+```
+## Build
+
+```Build
+npm run build
+```
+
+## Run the application
+
+```Start
+npm start
+```
+
+
+
+
