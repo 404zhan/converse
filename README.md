@@ -4,7 +4,7 @@ A full-stack real-time chat application built using the **MERN stack** and **Soc
 
 ## Screenshots
 
-![Chat Application UI](screenshots/Screenshot 2026-01-14 at 11.42.57 AM.png)
+![Chat UI](./screenshots/cahat-ui.png)
 
 ## ✨ Features
 
